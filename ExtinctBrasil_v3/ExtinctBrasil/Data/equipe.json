@@ -1,0 +1,80 @@
+[
+ {
+  "id": "lucas",
+  "nome": "Lucas",
+  "curto": "Lucas",
+  "funcao": "Estratégia",
+  "papel": "responsável pela estratégia da equipe",
+  "descricao": "Planeja as expedições e o uso de cada cápsula.",
+  "habilidade": "+1 cápsula em cada encontro.",
+  "bonus": {
+   "capsulas": 1
+  },
+  "jogavel": true
+ },
+ {
+  "id": "eduarda",
+  "nome": "Eduarda",
+  "curto": "Eduarda",
+  "funcao": "Tecnologia",
+  "papel": "responsável pela tecnologia da equipe",
+  "descricao": "Mantém a TEMPORAL CAPSULE e os portais.",
+  "habilidade": "Cápsulas 10% mais eficientes.",
+  "bonus": {
+   "captura": 0.1
+  },
+  "jogavel": true
+ },
+ {
+  "id": "manu",
+  "nome": "Manu",
+  "curto": "Manu",
+  "funcao": "Biologia",
+  "papel": "da Biologia",
+  "descricao": "Estuda habitat e alimentação das espécies.",
+  "habilidade": "ESCANEAR rende +10 de sinal extra.",
+  "bonus": {
+   "escanear": 10
+  },
+  "jogavel": true
+ },
+ {
+  "id": "tiago",
+  "nome": "Tiago",
+  "curto": "Tiago",
+  "funcao": "Rastreamento",
+  "papel": "especialista em rastreamento",
+  "descricao": "Lê pegadas e sinais para localizar criaturas.",
+  "habilidade": "RASTREAR rende +8 de sinal.",
+  "bonus": {
+   "rastrear": 8
+  },
+  "jogavel": true
+ },
+ {
+  "id": "laura",
+  "nome": "Laura",
+  "curto": "Laura",
+  "funcao": "Comunicação",
+  "papel": "responsável pela comunicação da equipe",
+  "descricao": "Transforma cada descoberta em história para todos.",
+  "habilidade": "A 1ª cápsula de cada encontro tem +20% de chance.",
+  "bonus": {
+   "primeira": 0.2
+  },
+  "jogavel": true
+ },
+ {
+  "id": "felipe",
+  "nome": "Felipe Paitch",
+  "curto": "Felipe",
+  "funcao": "Liderança",
+  "papel": "líder da equipe",
+  "descricao": "Coordena a equipe nas expedições.",
+  "habilidade": "+1 de tempo em cada encontro.",
+  "bonus": {
+   "tempo": 1
+  },
+  "jogavel": true
+ }
+]

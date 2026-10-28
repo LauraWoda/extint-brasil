@@ -1,0 +1,92 @@
+{
+ "mapas": {
+  "lab": {
+   "name": "TIME LAB",
+   "npcs": {
+    "eduarda": {
+     "lines": [
+      "I handle the team's technology. The TEMPORAL CAPSULE creates a safe field around the creature.",
+      "It doesn't hurt anyone: the creature is studied for a few moments and then returned to its own time.",
+      "The portal to PREHISTORIC BRAZIL is to the east, past the lab door. Good expedition!"
+     ],
+     "repeat_lines": [
+      "In every encounter you carry 3 capsules. Use them carefully!"
+     ]
+    },
+    "manu": {
+     "lines": [
+      "I'm from Biology. Use SCAN first: it shows the species' habitat and diet.",
+      "The more data you have, the stronger the tracking signal gets."
+     ],
+     "repeat_lines": [
+      "Biology tip: always scan before throwing a capsule."
+     ]
+    },
+    "laura": {
+     "lines": [
+      "I handle the team's communication: I turn what we discover into stories for everyone. In the Pleistocene, Brazil was home to giant sloths, saber-toothed cats and much more.",
+      "Most of that megafauna disappeared at the end of the last ice age, about 11 thousand years ago.",
+      "The ECODEX only reveals a species' Fun Fact and History after you study it up close."
+     ],
+     "repeat_lines": [
+      "Record every species. Each one tells a piece of Brazil's history."
+     ]
+    },
+    "proenca": {
+     "lines": [
+      "Talk to me!"
+     ]
+    },
+    "felipe": {
+     "lines": [
+      "I'm Felipe, the team leader. I make sure everyone comes back in one piece from every expedition.",
+      "Before traveling through time, talk to Prof. Proença: he has new equipment for the expedition."
+     ],
+     "repeat_lines": [
+      "Good luck out there in the Pleistocene! We'll be at the base waiting for you."
+     ]
+    }
+   }
+  },
+  "base": {
+   "name": "TIME BASE",
+   "npcs": {
+    "placa_base": {
+     "name": "Sign",
+     "lines": [
+      "TIME BASE. Portal to PREHISTORIC BRAZIL (Pleistocene): follow the trail east."
+     ]
+    },
+    "tiago": {
+     "lines": [
+      "My job is tracking. Tall grass hides footprints: walk through it and something will show up.",
+      "Use TRACK to strengthen the signal before throwing the capsule."
+     ],
+     "repeat_lines": [
+      "Fresh tracks in the tall grass, on the other side of the portal!"
+     ]
+    },
+    "lucas": {
+     "lines": [
+      "I plan the team's strategy. Golden rule: don't spend all your capsules at once.",
+      "The temporal signal lasts only a few turns in each encounter. Track with a plan."
+     ],
+     "repeat_lines": [
+      "Planning is everything: scan, track and only then throw the capsule."
+     ]
+    }
+   }
+  },
+  "pleistoceno": {
+   "name": "PREHISTORIC BRAZIL - PLEISTOCENE",
+   "npcs": {
+    "placa_pleisto": {
+     "name": "Sign",
+     "lines": [
+      "PLEISTOCENE. Creatures hide in the tall grass. The portal back is to the west."
+     ]
+    }
+   }
+  }
+ }
+}

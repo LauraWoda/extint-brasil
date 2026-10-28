@@ -1,0 +1,69 @@
+[
+ {
+  "id": "portal",
+  "titulo": "Cross the portal",
+  "tipo": "visit",
+  "alvo": "pleistoceno",
+  "meta": 1,
+  "descricao": "Follow the trail east of the Time Base and cross the portal to PREHISTORIC BRAZIL.",
+  "recompensa": [
+   "You went to the Pleistocene and came back in one piece! The ECOMAX sensors are now calibrated."
+  ],
+  "capsulas": 0
+ },
+ {
+  "id": "descobrir2",
+  "titulo": "First contact",
+  "tipo": "seen",
+  "meta": 2,
+  "descricao": "Find 2 different species in the tall grass of the Pleistocene. They are recorded in the ECODEX.",
+  "recompensa": [
+   "Two new entries in the ECODEX! This is the start of great research."
+  ],
+  "capsulas": 0
+ },
+ {
+  "id": "capturar1",
+  "titulo": "First study",
+  "tipo": "captured",
+  "meta": 1,
+  "descricao": "Study 1 creature up close using the TEMPORAL CAPSULE. Tip: SCAN and TRACK before throwing.",
+  "recompensa": [
+   "Your first complete study! Check its Fun Fact and History in the ECODEX."
+  ],
+  "capsulas": 1
+ },
+ {
+  "id": "descobrir4",
+  "titulo": "Scientist's eye",
+  "tipo": "seen",
+  "meta": 4,
+  "descricao": "Discover 4 different species. Brazil's megafauna was very diverse!",
+  "recompensa": [
+   "Four species discovered. You already see the Pleistocene like a scientist!"
+  ],
+  "capsulas": 0
+ },
+ {
+  "id": "capturar3",
+  "titulo": "Field researcher",
+  "tipo": "captured",
+  "meta": 3,
+  "descricao": "Study 3 species with the TEMPORAL CAPSULE and read what the ECODEX says about them.",
+  "recompensa": [
+   "Three species studied! The ECOMAX will unlock one more capsule for your next expeditions."
+  ],
+  "capsulas": 1
+ },
+ {
+  "id": "ecodex",
+  "titulo": "ECODEX complete",
+  "tipo": "captured",
+  "meta": 0,
+  "descricao": "Study ALL the Pleistocene species and complete the ECODEX.",
+  "recompensa": [
+   "All species recorded! You completed the Pleistocene ECODEX."
+  ],
+  "capsulas": 0
+ }
+]

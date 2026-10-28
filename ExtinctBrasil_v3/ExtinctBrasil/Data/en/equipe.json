@@ -1,0 +1,80 @@
+[
+ {
+  "id": "lucas",
+  "nome": "Lucas",
+  "curto": "Lucas",
+  "funcao": "Strategy",
+  "papel": "in charge of the team's strategy",
+  "descricao": "Plans the expeditions and the use of every capsule.",
+  "habilidade": "+1 capsule in every encounter.",
+  "bonus": {
+   "capsulas": 1
+  },
+  "jogavel": true
+ },
+ {
+  "id": "eduarda",
+  "nome": "Eduarda",
+  "curto": "Eduarda",
+  "funcao": "Technology",
+  "papel": "in charge of the team's technology",
+  "descricao": "Maintains the TEMPORAL CAPSULE and the portals.",
+  "habilidade": "Capsules 10% more effective.",
+  "bonus": {
+   "captura": 0.1
+  },
+  "jogavel": true
+ },
+ {
+  "id": "manu",
+  "nome": "Manu",
+  "curto": "Manu",
+  "funcao": "Biology",
+  "papel": "from Biology",
+  "descricao": "Studies the habitat and diet of species.",
+  "habilidade": "SCAN gives +10 extra signal.",
+  "bonus": {
+   "escanear": 10
+  },
+  "jogavel": true
+ },
+ {
+  "id": "tiago",
+  "nome": "Tiago",
+  "curto": "Tiago",
+  "funcao": "Tracking",
+  "papel": "a tracking specialist",
+  "descricao": "Reads footprints and signs to locate creatures.",
+  "habilidade": "TRACK gives +8 signal.",
+  "bonus": {
+   "rastrear": 8
+  },
+  "jogavel": true
+ },
+ {
+  "id": "laura",
+  "nome": "Laura",
+  "curto": "Laura",
+  "funcao": "Communication",
+  "papel": "in charge of the team's communication",
+  "descricao": "Turns every discovery into a story for everyone.",
+  "habilidade": "The 1st capsule of each encounter has +20% chance.",
+  "bonus": {
+   "primeira": 0.2
+  },
+  "jogavel": true
+ },
+ {
+  "id": "felipe",
+  "nome": "Felipe Paitch",
+  "curto": "Felipe",
+  "funcao": "Leadership",
+  "papel": "team leader",
+  "descricao": "Coordinates the team on expeditions.",
+  "habilidade": "+1 time in every encounter.",
+  "bonus": {
+   "tempo": 1
+  },
+  "jogavel": true
+ }
+]
