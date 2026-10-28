@@ -153,11 +153,11 @@
     ]
    },
    {
-    "id": "tiago",
-    "name": "Tiago",
+    "id": "thiago",
+    "name": "Thiago",
     "x": 18,
     "y": 9,
-    "sprite": "tiago",
+    "sprite": "thiago",
     "facing": "down",
     "lines": [
      "Meu trabalho é o rastreamento. Capim alto esconde pegadas: ande por ele e algo vai aparecer.",
