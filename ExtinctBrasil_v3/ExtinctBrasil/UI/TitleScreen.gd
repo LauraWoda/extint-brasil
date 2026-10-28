@@ -18,8 +18,8 @@ const MENU_X_MAX := 930.0
 const SELECT_SCENE := "res://UI/CharacterSelect.tscn"
 const WORLD_SCENE := "res://World/World.tscn"
 
-const ART := "Tela de Seleção de Caçadores em Pixel Art (1).png"
-const ART_EN := "Tela de Seleção de Caçadores em Pixel Art (1).png"          # opcional
+const ART := "res://Assets/UI/Tela de Seleção de Caçadores em Pixel Art (1).png"
+const ART_EN := "res://Assets/UI/title_en.png"          
 const MENU_COVER := Rect2(648, 402, 272, 148)           # interior da caixa do menu na arte
 const MENU_COVER_COLOR := Color(0.937, 0.925, 0.906)
 const MENU_TEXT_COLOR := Color(0.13, 0.12, 0.14)
