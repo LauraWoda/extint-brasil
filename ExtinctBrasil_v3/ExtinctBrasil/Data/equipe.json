@@ -39,9 +39,9 @@
   "jogavel": true
  },
  {
-  "id": "tiago",
-  "nome": "Tiago",
-  "curto": "Tiago",
+  "id": "thiago",
+  "nome": "Thiago",
+  "curto": "Thiago",
   "funcao": "Rastreamento",
   "papel": "especialista em rastreamento",
   "descricao": "Lê pegadas e sinais para localizar criaturas.",
